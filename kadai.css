@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+body{
+  background-image:url("./image/yellow0008.png") ;
+	background-size:1400px 680px ;
+}
+#page{
+  width:790px;
+
+  margin: 0 auto;
+}
+
+#header{
+	color:#f37f0b;
+}
+
+#contents{
+
+  height:550px;
+}
+#index{
+ 
+  float:left;
+  width:;244px;
+  height:550px;
+}
+#index ul{
+	list-style-type: none;
+}
+#main{
+	background-color:rgba(140,255,101,0.1);
+  float:right;
+  width:540px;
+  height:550px;
+}
